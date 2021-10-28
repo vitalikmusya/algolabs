@@ -1,5 +1,5 @@
 # Quick Sort For Laboratory work №1
-Quick sort algorithm was writen with Java by Androsiuk Maksym, student of ["Internet of Things"](http://iot.lviv.ua) programm in Lviv Polytechnic National University.
+Quick sort algorithm was writen with Java by Musyanovych Vitaliy, student of ["Internet of Things"] programm in Lviv Polytechnic National University.
 
 ## Instalation and execution
 1. Download code and insert it into your maven project
